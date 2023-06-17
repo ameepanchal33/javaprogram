@@ -6,7 +6,7 @@ public class Ascii {
 		char ch1='A';
 		int asciivalue=ch;
 		int asciivalue1=ch1;
-		System.out.println("The ascii value of is:" +asciivalue);
+		System.out.println("The ascii value of"+ch+"is:" +asciivalue);
 		System.out.println("the ascii vslue of"+ch1+"is"+asciivalue1);
 		
 		
