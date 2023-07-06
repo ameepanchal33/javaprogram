@@ -1,7 +1,7 @@
 package basic;
 import java.util.Scanner;
 
-public class vovelcosonunt {
+public class Assign2 {
 	public static void main(String[] args) {
 		Scanner sc=new Scanner(System.in);
 	    int i= 0;
