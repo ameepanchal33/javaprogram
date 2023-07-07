@@ -1,7 +1,7 @@
 package basic;
 import java.util.Scanner;
 
-public class leap {
+public class Assign3 {
 	public static void main(String[] args) {
 	  
 		Scanner sc=new Scanner(System.in);
