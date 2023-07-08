@@ -1,7 +1,7 @@
 package basic;
 import java.util.Scanner;
 
-public class RtriangleIncreasingNo {
+public class Assign7 {
 	public static void main(String[] args) {
 		Scanner sc=new Scanner(System.in);
 		System.out.println("enter the no:");
