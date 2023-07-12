@@ -1,6 +1,6 @@
 package basic;
 
-public class ConcatString {
+public class Assign15 {
 	public static void main(String[] args) {
 		
 		String a="hello friends ";
