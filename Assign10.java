@@ -1,6 +1,6 @@
 package basic;
 
-public class Ascii {
+public class Assign10 {
 	public static void main(String[] args) {
 		char ch='a';
 		char ch1='A';
