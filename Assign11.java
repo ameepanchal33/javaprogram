@@ -1,7 +1,7 @@
 package basic;
 import java.util.Scanner;
 
-public class IntegerCompute {
+public class Assign11 {
 	public static void main(String[] args) {
 		Scanner sc=new Scanner(System.in);
 		System.out.print("enter the no:");
