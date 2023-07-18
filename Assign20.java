@@ -1,6 +1,6 @@
 package basic;
 
-public class Assign_20 {
+public class Assign20 {
 	public static void main(String[] args) {
 		String s="Java Exercises";
 		String e="se";
