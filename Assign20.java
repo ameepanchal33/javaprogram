@@ -1,6 +1,6 @@
 package basic;
 
-public class StringEndswith_Se {
+public class Assign20 {
 	public static void main(String[] args) {
 		String s="Java Exercises";
 		String e="se";
