@@ -13,7 +13,7 @@ public class minmaxarry {
 	}
 	public static int findmaxelement(int[] arr) {
 		int max=arr[0];
-		for(int i=0;i<arr.length;i++) {
+		for(int i=1;i<arr.length;i++) {
 			if(arr[i]>max) {
 				max=arr[i];
 			}
@@ -21,7 +21,7 @@ public class minmaxarry {
 		return max;
 	}
 	public static void main(String[] args) {
-		int[] arr= {2,1,3,5,1};
+		int[] arr= {2,1,13,5,1};
 		int min= findminandmaxi(arr);
 		int max=findmaxelement(arr);
 		System.out.println(min);
