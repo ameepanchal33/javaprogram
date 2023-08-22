@@ -1,5 +1,7 @@
 package basic;
 
+import java.util.Arrays;
+
 public class Array {
   public static void main(String[] args) 
  {
@@ -19,7 +21,12 @@ public class Array {
 	System.out.println(a[2]);
 	System.out.println(a[3]);
 	System.out.println(a[4]);
+	Arrays.sort(a);
+	System.out.println(Arrays.toString(a));
+	System.out.println(a);
   
  }
+
+
 }
   
